@@ -1,14 +1,13 @@
 {
-  "values": [
-    {
+  "process1": {
       "StartTime": "10:30:05",
       "EndTime": "10:34:50"
     },
-    {
+  "process2": {
       "StartTime": "11:15:05",
       "EndTime": "12:34:50"
     },
-    {
+  "process3": {
       "StartTime": "10:30:05",
       "EndTime": "11:34:50"
     }
